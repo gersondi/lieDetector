@@ -1,0 +1,2 @@
+var answer=console.log("that is today's date");
+console.log(answer);
